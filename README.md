@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/umittengiz/cdn/main/uploads/greetings.gif)](https://rishavchanda.io)
+[![MasterHead](https://media0.giphy.com/media/iDbDicWr95THaVsuIF/giphy.gif?cid=6c09b952h02vbd53dvz8sq7f1x5btjfqm1ltsyxb4m9u8skg&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=ts)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
