@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
-<img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" me coding">
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" me coding">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav1505" alt="vaibhav1505" /></a> </p>
