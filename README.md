@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
-<img src="[[[https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)](https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif)" alt="Girl in a jacket"  >
+<img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" me coding">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav1505" alt="vaibhav1505" /></a> </p>
