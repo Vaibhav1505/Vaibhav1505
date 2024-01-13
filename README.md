@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vaibhav Singh</h1>
 <h3 align="center">A passionate Web and App developer from India</h3>
-<img align="right"  width="450" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" me coding">
+<img align="right"  width="450" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" me coding">
 
 - 🔭 I’m currently working on **Myntra Clone**
 
