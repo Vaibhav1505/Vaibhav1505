@@ -4,9 +4,9 @@
 <h3 align="center">A passionate Web and App developer from India</h3>
 <img align="right"  width="450" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" me coding">
 
-- 🔭 I’m currently working on **Myntra Clone**
+- 🔭 I’m currently working on **Messenger App**
 
-- 🌱 I’m currently learning **JavaScript,React**
+- 🌱 I’m currently learning **JavaScript,React,Flutter**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and DSA**
 
