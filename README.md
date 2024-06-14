@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **EdTech Website (GyanHub)**
 
-- 🌱 I’m currently learning **JavaScript,React,Flutter**
+- 🌱 I’m currently learning **FullStack Developement**
 
 - 💬 Ask me about **HTML, CSS, JavaScript and DSA**
 
