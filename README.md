@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vaibhavsingh15052002@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhav-singh-a697581b5/overlay/1704189934608/single-media-viewer/?profileId=ACoAADIfdPEBlAteFMOtW1HkP9SmgOzNWXZ6sZg](https://www.linkedin.com/in/vaibhav-singh-a697581b5/overlay/1704189934608/single-media-viewer/?profileId=ACoAADIfdPEBlAteFMOtW1HkP9SmgOzNWXZ6sZg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
