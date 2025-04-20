@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web and App developer from India</h3>
 <img align="right"  width="450" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" me coding">
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **CRM CRAETION AND UNDERSTANDING WORKFLOW**
 
 - 🌱 I’m currently learning **FullStack Developement**
 
